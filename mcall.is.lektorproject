@@ -1,0 +1,8 @@
+[project]
+name = mcall.is
+
+[servers.production]
+name = Production
+enabled = yes
+default = yes
+target = rsync://brickwall.at/home/sean/html/mcall.is

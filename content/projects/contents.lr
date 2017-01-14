@@ -1,0 +1,80 @@
+title: Projects
+---
+body:
+
+Here is a very incomplete list of projects I have been involved in and some
+that are currently in progress.
+
+
+BeeTwo Issue Tracker (2016)
+----------------------------
+
+A proof-of-concept geographic issue tracker that is intended to be used by
+humanitarian organisations. This project is built using [django] on the backend
+and a web interface that makes extensive use of modern frontend tooling
+(webpack, react, redux). Source code can be found at [IssueTracker].
+
+[IssueTracker]: https://github.com/mcallistersean/b2-issue-tracker
+[BeeTwo]: https://beetwodotat.wordpress.com/
+
+Himalaya Archive Vienna (since 2015)
+-----------------
+
+This project can be seen as a follow up to my previous work at the University of Vienna.
+The aim is to modernize the [WHAV] and build up a new portal that focuses on
+multimedia content as opposed to the existing image repository. We intend to
+create innovative visualisations of related multimedia assets.    
+
+
+Digital signage solution @ Erste Campus
+----------------------------------------
+A large scale, custom built digital signage solution created with [C99] that is currently in
+use at one of the largest company headquarters in Vienna. Some more information can be found at [dsigns]  
+
+[C99]: http://c99.at/
+[dsigns]: http://dsigns.at/
+
+
+
+Campus IT @ WU (2011-2014)
+---------------------------
+
+
+I was a member of the now defunct Campus-IT department at the [Vienna University of Economics] [1].
+We were responsible for a number of rather innovative software projects (hopefully not defunct) that were part of the universities
+relocation to a new and modern [campus][2] in another part of town.
+
+Apart from some smaller projects including the [universities phone directory] [3] and the omnipresent digital door signs
+at the campus I spent most of my time working on the [decentralized room booking system] [4]. The software is a near-real-time
+resource planning system that is being used both by the centralized course planning department and students alike.
+
+[1]: https://wu.ac.at/
+[2]: https://www.wu.ac.at/campus/architecture/en/
+[3]: https://bach.wu.ac.at/d/directory/
+[4]: https://bach.wu.ac.at/d/rr/
+
+
+Western Himalayan Archive Vienna (2005-2010)
+---------------------------------------------
+
+This started off as a student job and ended at remote and interesting places.
+I was involved in the development of a large digital image archive and database, the [WHAV]. This was the first large [django]
+driven project I worked on. During my time there I was lucky enough to travel to some of the places depicted on the images we archived.
+
+[WHAV]: http://whav.aussereurop.univie.ac.at/
+[django]: https://www.djangoproject.com/
+
+
+
+Secure Systems Lab, Vienna (2006-2008)
+---------------------------------------
+
+I wrote both my bachelor and master's thesis at the [Secure Systems Lab] [isec].
+The publications can be found on the project's [publications] [isec-pub] page. They deal with static analysis of
+phishing sites and the detection of stored XSS attack vectors in database driven web applications.
+These papers were presented at conferences in Lucerne and Boston (RAID). We were also quite successful at participating
+at international CTF tournaments.
+
+
+[isec]: http://www.iseclab.org/
+[isec-pub]: http://www.iseclab.org/publications.html

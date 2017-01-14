@@ -1,0 +1,44 @@
+title: About me
+---
+body:
+
+       
+<p>
+    Since it seems that I am legally obliged to publish my full contact details, here they are. Please don't spam me.
+</p>
+
+<dl>
+
+    <dt>Full name<dt>
+    <dd>Sean Mc Allister</dd>
+
+    <dt>Address</dt>
+    <dd>
+        Paulanergasse 8/3<br />
+        1040 Vienna<br />
+        Austria
+    <dd>
+
+    <dt>Email</dt>
+    <dd>
+        <a href='mailto:sean@mcall.is'>sean@mcall.is</a>
+    </dd>
+
+    <dt>Telephone</dt>
+    <dd>
+        <a href='tel:+436507326622'>+43 (0)                                                                                                                                                                                                                                                                 650 732 66 22</a>
+    </dd>
+
+    <dt>Further information</dt>
+    <dd>
+	<a href="https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=1122eacf-de42-484c-954e-fa0867b7405a" 
+		target="_blank">
+		<img src="https://www.wkoecg.at/Web/Library/img/ecg.gif" style="border:0px" alt="Informationen zu E-Commerce und Mediengesetz" />
+	</a>
+    </dd>
+
+</dl>
+
+<p>
+UID: ATU68739127
+</p>

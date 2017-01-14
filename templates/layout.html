@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="{{ '/static/css/poole.css'|url }}">
+    <link rel="stylesheet" href="{{ '/static/css/syntax.css'|url }}">
+    <link rel="stylesheet" href="{{ '/static/css/hyde.css'|url }}">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ 'static/apple-touch-icon-144-precomposed.png'|url }}">
+    <link rel="shortcut icon" href="{{ 'static/favicon.ico'|url }}">
+
+    <!-- RSS -->
+{#    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">#}
+</head>
+    <title>{% block title %}{% endblock %} mcall.is</title>
+</head>
+<body>
+    <nav class="sidebar">
+        {% include './nav.html' %}
+    </nav>
+    <div class="content container">
+      <div class="page">
+        {% block body %}{% endblock %}
+      </div>
+    </div>
+</body>
+</html>
