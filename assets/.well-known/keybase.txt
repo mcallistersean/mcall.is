@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/mcallis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mcall.is
+  * I am mcallis (https://keybase.io/mcallis) on keybase.
+  * I have a public key with fingerprint FA5F 5A26 D534 CA89 4C1F  334D BF5C 6F77 16A9 FEF6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010184f1821c352d3bb2d85649405808513e6245465f012d5c27e662dbc140276a950a",
+      "fingerprint": "fa5f5a26d534ca894c1f334dbf5c6f7716a9fef6",
+      "host": "keybase.io",
+      "key_id": "bf5c6f7716a9fef6",
+      "kid": "010184f1821c352d3bb2d85649405808513e6245465f012d5c27e662dbc140276a950a",
+      "uid": "3679e1dcf477c8cf40260200bc301b19",
+      "username": "mcallis"
+    },
+    "merkle_root": {
+      "ctime": 1567546682,
+      "hash_meta": "24be4df5117ed0592d9e5ebf42dc444db1e2fdb4c0d992bb4dae75e0a14989f4",
+      "seqno": 6162818
+    },
+    "revoke": {
+      "sig_ids": [
+        "cba5520544a2c8d5c760413d3074a7167ec6e0fedf416b75b594745cf26687710f"
+      ]
+    },
+    "service": {
+      "hostname": "mcall.is",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1567546684,
+  "expire_in": 157680000,
+  "prev": "7845c9f6f2b942d664ad5d8a7564d68869242bf7362022daa68eec297dabc67a",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtk3tsFEUcx3uIkV5QCI/ysmgXrMUWsjs7M7t7hJdSoEClhJeF1svszmx79Hrb
+3qul7QEKNG15Coq8FCUCFREQiEQQxNoreCgqj1QIVwQiFEywCFKxUpxrJBrjn+4/
+k/3l+/v+vvOZmVWPPxLXxfZZjlWS8H77XduJ63pcric6vlzQLTpPcJQLBaxjYW7K
+fH5ngYsKDkGUREmFpqQCyZARoLKuA6oiDDUoIlVUkSQzDCCCGJmiBCgygMIwBlQ3
+JCgCBRMNiURIE0yXJ495i7wuj5/bmgSZiABMkQwNomrQkExZhlQ3kYFNRZF4n8lM
+zBvzLV+sg4fTiY8Nc1m8xn+cHfH+Q/8/5w502MlY0ZhEDRMqiqHyRQRYBKKoG7Io
+6ZIWE/qY10MKGVcXGsTtdvmEUJpQyLwFbub0WpY/xtbwu2IKCWGFj8Yq4Psjvnxn
+IfMT3gigziA1kSQpjIpIA1RjiOkmBNSAkOORGDCpDg2RahrQdUgJUxATiQQ1VTMh
+j+FjxR5LcGAJA1VSeQIvC1oFLDbc58rj1HyCY45g6ASho8VARBASYKh8/woWoSRT
+WVQg4TwVZmAmmoyaUMK6gnSkQQUiwwQ8NgcumkJuKDbOG3QZHfaxg/ongGGcQJpQ
+5LX8lmG5eTXf7y/yOWJU/POKYrISpjv/MnDqLg/lV4R3BJnX57I8nBJX/hsYTBNY
+aZHLy5yumAIpWBX5F5vDgtxSUXlGzcQm0DVODWNIKKIqUfjRU6yqWAMQ6KYiYyAC
+QAnBKmMG0BRKdAMr5G+CGo9J8rglx+Yh/oCXCSF7dSe5c5ytS1xiQlLn352zk8/C
+SPXkp+TMh6/q0U6xJxVnj+/+sDK6qHvcisYJvVadGRA5fTe1tKFbYaaQXrP1yPr4
+1HTHL5GMHeknclZuPLPsy6Tt3ZpqDXDjidC+CQu+uXrOugkd494LN0Z+vVcx/XxD
+6qb1l6eFE5PU+5cbf8zSptdWqO2BnkvpPXevQefjD52BL5Kq5gvRXHs4c+AgT8bx
+afvLT/ZO3nZ1YrBH07a3HTNe2/HqmPDYPQ2J72YlBZ/99pOKA6WHX5i65Z26T20j
+w+fyV268Nqvv7sUfGonP5VQtmey43vlsPEq5fX9XuOyLOU+29rRlrll0pPol+EAq
+Wx54bFSbtzV7+47a1iVNTbnLpUlVV7+b2JY/cWwLWfjm/HPr+9wYfkytX/tHWmv2
+omeE4q2vbzb3XVu2OhTYZ0/4Olo+v3nnyCnJx4aLGceFYP1pKZpbVblk0xuk+GLz
+3oUVtv2Le+x88ErlrIQbKSM2Pz1uSsNUeDErOm9IuO7nBRcujU3Y3Lq765Do3r5b
+KodO+PyHXWuzm20f1ExKEdxdL6q+2zWhjOcX7L0VeHlRwqW59t7+ko9mLh0xoDlx
+lK3mp2C1VXCq38kx6zYEhp4fPTm7dkX/vFPY/lve6vTEtvbQ4T7btcEtyXfmbqyv
+u9JydEOWvf/BVDS8fWH7zu9TkqbeaWmpKHvr5qlA5ld1hw6WRm6Vzvj4QP0Rx7oB
+e0aVzSxd1W9gTeOVkrU5s/scmxEV/UJkzeCI2haJP/En
+=6mS+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mcallis
+
+==================================================================
