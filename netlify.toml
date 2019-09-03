@@ -19,3 +19,6 @@
 [[redirects]]
   from = "/hochzeit/*"
   to = "https://elegant-pare-cc92f4.netlify.com/hochzeit/:splat"
+  status = 200
+  force = true
+  
