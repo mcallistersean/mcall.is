@@ -17,5 +17,5 @@
 
 # A basic redirect rule
 [[redirects]]
-  from = "/hochzeit/"
+  from = "/hochzeit/*"
   to = "https://elegant-pare-cc92f4.netlify.com/hochzeit/:splat"
