@@ -15,7 +15,11 @@
   # functions = "project/functions/"
 
 
-# A basic redirect rule
+[[redirects]]
+  from = "https://www.mcall.is/*"
+  to = "https://mcall.is/:splat"
+  force = true
+
 [[redirects]]
   from = "/hochzeit/*"
   to = "https://elegant-pare-cc92f4.netlify.com/hochzeit/:splat"
