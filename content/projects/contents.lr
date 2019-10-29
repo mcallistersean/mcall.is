@@ -5,14 +5,40 @@ body:
 Here is a very incomplete list of projects I have been involved in and some
 that are currently in progress.
 
+Radicos TwinBridge
+------------------
+
+A cross-platform QT5 application to read and process vast amounts of sensor data.
+Currently (Oct. 2019) being rewritten as a set of independent services making heavy use 
+of Python's asyncio framework.
+
+*Technologies*: Python, QT5, Serial Interfaces
+
+[Radicos]: (https://www.radicos.com/)
+
+
+
+APA Medialab (2017-2019)
+------------------------
+
+I was a member of the [APA Medialab]. During my time there we focussed on implementing
+the Google [Design Sprint] methods for the media industry.
+My task was the creation of prototypes, mainly with the help of modern frontend tooling. 
+Python was used as the glue between the various in-house data sources and the frontend.
+Lots of text analysis with the help of machine learning techniques.
+
+*Technologies*: multiple frontend technologies, Python, Machine Learning, Fasttext, Perl
+
+[APA Medialab]: (https://medialab.apa.at/)
+[Design Sprint]: (https://www.gv.com/sprint/)
 
 BeeTwo Issue Tracker (2016)
 ----------------------------
 
 A proof-of-concept geographic issue tracker that is intended to be used by
 humanitarian organisations. This project is built using [django] on the backend
-and a web interface that makes extensive use of modern frontend tooling
-(webpack, react, redux). Source code can be found at [IssueTracker].
+and a web interface that makes extensive use of modern frontend tooling. 
+Source code can be found at [IssueTracker].
 
 [IssueTracker]: https://github.com/mcallistersean/b2-issue-tracker
 [BeeTwo]: https://beetwodotat.wordpress.com/
@@ -31,6 +57,8 @@ Digital signage solution @ Erste Campus
 A large scale, custom built digital signage solution created with [C99] that is currently in
 use at one of the largest company headquarters in Vienna. Some more information can be found at [dsigns]  
 
+*Technologies*: React, uwsgi, websockets, Python, some embedded systems programming
+
 [C99]: http://c99.at/
 [dsigns]: http://dsigns.at/
 
@@ -38,7 +66,6 @@ use at one of the largest company headquarters in Vienna. Some more information 
 
 Campus IT @ WU (2011-2014)
 ---------------------------
-
 
 I was a member of the now defunct Campus-IT department at the [Vienna University of Economics] [1].
 We were responsible for a number of rather innovative software projects (hopefully not defunct) that were part of the universities
